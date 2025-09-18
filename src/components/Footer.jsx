@@ -21,8 +21,8 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-6 border-t border-beige/40 pt-4 flex justify-between text-xs">
-          <p>Newsletter — Enter Your Email Address</p>
-          <p>© 2025 Pan Africa Food. All rights reserved</p>
+          <p>Newsletter — info@bbafricanfood.com</p>
+          <p>© 2025 PixelPark Inc. All rights reserved</p>
         </div>
       </div>
     </footer>
